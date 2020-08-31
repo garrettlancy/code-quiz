@@ -1,0 +1,62 @@
+.row-margin {
+    margin-top: 2em;
+}
+
+.line {
+    width: 100%;
+    text-align: center;
+    border-bottom: 1px solid #000;
+    line-height: 0.1em;
+    margin: 1em 0 2em;
+}
+
+.line span {
+    background:#fff;
+    padding:0 1em;
+}
+
+header {
+    font-family: AppleGothic;
+    margin-top: 3em;
+    margin-bottom: 3em;
+}
+
+footer {
+    margin-top: 3em;
+    margin-bottom: 3em;
+}
+
+.outer-div {
+    position: relative;
+}
+
+.inner-div-right {
+    position: absolute;
+    bottom: 5em;
+    right: 2em;
+}
+
+.inner-div-left {
+    position: absolute;
+    bottom: 5em;
+    left: 2em;
+}
+
+.quote {
+    font-family: AppleGothic;
+    font-size: 1em;
+    color: #54707f;
+}
+
+.quoter {
+    color: #c75d49;
+}
+
+.team-img {
+    max-width: 100%;
+}
+
+.fa-quote-left {
+    font-size: 3em !important;
+    color: #c75d49;
+}
